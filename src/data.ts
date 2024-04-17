@@ -39,12 +39,6 @@ export const menu = [
         url: "/orders",
         icon: "order.svg",
       },
-      {
-        id: 4,
-        title: "Posts",
-        url: "/posts",
-        icon: "post2.svg",
-      },
     ],
   },
   {
@@ -53,27 +47,21 @@ export const menu = [
     listItems: [
       {
         id: 1,
-        title: "Elements",
+        title: "Deposits",
         url: "/",
         icon: "element.svg",
       },
       {
         id: 2,
-        title: "Notes",
+        title: "Withdrawals",
         url: "/",
         icon: "note.svg",
       },
       {
         id: 3,
-        title: "Forms",
+        title: "Events",
         url: "/",
         icon: "form.svg",
-      },
-      {
-        id: 4,
-        title: "Calendar",
-        url: "/",
-        icon: "calendar.svg",
       },
     ],
   },
@@ -101,12 +89,6 @@ export const menu = [
     listItems: [
       {
         id: 1,
-        title: "Charts",
-        url: "/",
-        icon: "chart.svg",
-      },
-      {
-        id: 2,
         title: "Logs",
         url: "/",
         icon: "log.svg",
